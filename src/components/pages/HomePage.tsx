@@ -5,7 +5,7 @@ import { motion, useScroll, useTransform, useSpring, useInView } from 'framer-mo
 import { 
   Briefcase, 
   Trophy, 
-  GraduationCap, 
+  GraduationCap,
   Users, 
   BookOpen, 
   ArrowRight, 
